@@ -1,0 +1,6 @@
+{
+  "name": "Luminous Study - High-Velocity Practice & Knowledge Mastery",
+  "description": "Modern glassmorphic assessment and high-velocity study platform featuring real-time telemetry, adaptive question banks, and AI practice generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
